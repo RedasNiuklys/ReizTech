@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Branch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Branch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Branch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Branch/1.0.0": {
+      "type": "project",
+      "path": "../Branch/Branch.csproj",
+      "msbuildProject": "../Branch/Branch.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Branch >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\redas\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\redas\\Desktop\\ReizTech\\Recursion\\Recursion.csproj",
+      "projectName": "Recursion",
+      "projectPath": "C:\\Users\\redas\\Desktop\\ReizTech\\Recursion\\Recursion.csproj",
+      "packagesPath": "C:\\Users\\redas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\redas\\Desktop\\ReizTech\\Recursion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\redas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\redas\\Desktop\\ReizTech\\Branch\\Branch.csproj": {
+              "projectPath": "C:\\Users\\redas\\Desktop\\ReizTech\\Branch\\Branch.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

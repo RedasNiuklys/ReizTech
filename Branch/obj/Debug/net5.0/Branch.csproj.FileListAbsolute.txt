@@ -1,0 +1,16 @@
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.exe
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.deps.json
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.runtimeconfig.json
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.runtimeconfig.dev.json
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.dll
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\ref\Branch.dll
+C:\Users\redas\Desktop\ReizTech\Branch\bin\Debug\net5.0\Branch.pdb
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.csproj.AssemblyReference.cache
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.AssemblyInfoInputs.cache
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.AssemblyInfo.cs
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.csproj.CoreCompileInputs.cache
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.dll
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\ref\Branch.dll
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.pdb
+C:\Users\redas\Desktop\ReizTech\Branch\obj\Debug\net5.0\Branch.genruntimeconfig.cache
